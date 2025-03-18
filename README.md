@@ -1,4 +1,4 @@
-# CS310
+# M2Discussion
 ## Contributors
 - Dr. Robert Flowers
 - Jay Fisher
